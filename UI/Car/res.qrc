@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/car_h.png</file>
+        <file>res/nbu.png</file>
+        <file>res/car_self.png</file>
+        <file>res/car_new.jpg</file>
+        <file>res/bird.jpg</file>
+    </qresource>
+</RCC>
